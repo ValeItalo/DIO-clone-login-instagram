@@ -1,2 +1,6 @@
-# DIO-clone-login-instagram
-DIO - Clone da página de login do Instagram com Flexbox CSS
+# DIO: Clone da página de login do Instagram 
+
+Projeto desenvolvido utilizando os principais fundamentos do Flexbox CSS
+
+## Links úteis
+- [Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout)
