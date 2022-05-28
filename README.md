@@ -1,4 +1,4 @@
-# DIO: Clone da página de login do Instagram 
+# DIO: Clone da página inicial do Instagram 
 
 Projeto desenvolvido utilizando os principais fundamentos do Flexbox CSS
 
